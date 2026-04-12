@@ -1,0 +1,124 @@
+Desafio de Projeto
+Simulação de entrevista de emprego com IA
+
+Entrevista e Diagnóstico de Carreira – Criadora de Sites & Inteligência Artificial
+
+Este documento reúne uma entrevista simulada e um diagnóstico de evolução profissional para Jaqueline, candidata à vaga de Criadora de Sites, com foco em apoiar micro e pequenos empreendedores.
+
+---
+
+📌 Estrutura da Vaga
+
+Título e Propósito
+- Cargo: Criadora de Sites  
+- Objetivo: Desenvolver sites para micro e pequenos empreendedores, oferecendo presença digital que fortaleça seus negócios e aumente a competitividade.
+
+Senioridade
+- Profissional com experiência prática suficiente para compreender as necessidades de empreendedores e traduzir em soluções digitais.  
+- Justificativa: a demanda crescente por presença online exige alguém capaz de entregar resultados consistentes e adaptados ao perfil de cada cliente.
+
+Stack Tecnológico
+- Chatbots para interação e suporte automatizado  
+- Plataformas de criação de sites (CMS, construtores visuais)  
+- Ferramentas de design gráfico  
+- Conhecimento em programação (ex.: Vibe Coding)  
+- Domínio de hardware e software (computadores e infraestrutura básica)
+
+Soft Skills
+- Capacidade de ouvir e entender as necessidades do cliente  
+- Conhecimento em finanças para alinhar soluções ao orçamento e objetivos do negócio  
+- Clareza de propósito e visão de impacto positivo no desenvolvimento dos empreendedores
+
+---
+
+🎤 Entrevista Simulada
+
+Experiência Técnica:  
+- Desenvolveu documentação e projetos no GitHub, incluindo um app de finanças pessoais.  
+- Utilizou Vibe Coding para estruturar projetos e documentação.  
+- Demonstra capacidade de aplicar aprendizado em soluções práticas.
+
+Processo de Trabalho:  
+- Inicia sempre pelo entendimento profundo das necessidades do cliente.  
+- Usa criatividade para transformar demandas em sites funcionais e úteis.  
+- Foco em entregar soluções personalizadas que apoiem empreendedores.
+
+Soft Skills:  
+- Valoriza a escuta ativa e a empatia com o cliente.  
+- Mostra disciplina e continuidade no desenvolvimento pessoal e profissional.  
+- Integra conhecimentos de finanças e tecnologia, ampliando a visão estratégica.  
+- Clareza de propósito: ajudar empreendedores a crescer digitalmente.
+
+---
+
+📊 Diagnóstico de Evolução para Inteligência Artificial
+
+1. Fundamentos Técnicos
+- Matemática: álgebra linear, cálculo, probabilidade e estatística  
+- Programação: Python, bibliotecas (NumPy, Pandas, Scikit-learn)  
+- Ciência de Dados: limpeza, análise e visualização de dados
+
+2. Especialização em IA
+- Machine Learning: regressão, classificação, clustering  
+- Deep Learning: redes neurais, CNNs, RNNs/LSTMs  
+- NLP: análise de texto, embeddings, transformers (BERT, GPT)  
+- Visão Computacional: reconhecimento de imagens, OpenCV  
+- Frameworks: TensorFlow, PyTorch, Keras
+
+3. Experiência Prática
+- Projetos reais: modelos de previsão, chatbots, sistemas de recomendação  
+- Portfólio: publicar no GitHub projetos documentados  
+- Competição: participar de Kaggle e hackathons  
+- Cursos avançados: bootcamps e pós-graduação em IA
+
+4. Soft Skills e Estratégia
+- Pensamento crítico e resolução de problemas  
+- Comunicação clara para públicos não técnicos  
+- Aprendizado contínuo  
+- Visão de negócios para conectar IA às necessidades reais
+
+---
+
+✅ Conclusão
+Jaqueline apresenta perfil híbrido: técnica e estratégica. Sua experiência prática já demonstra capacidade de criar soluções digitais relevantes. O diferencial está na combinação de criatividade, disciplina e visão financeira, que a tornam apta a apoiar empreendedores com sites que fortalecem o negócio.  
+Para evoluir em Inteligência Artificial, o caminho passa por consolidar fundamentos técnicos, dominar frameworks de IA e construir projetos práticos que unam tecnologia e impacto social.
+
+Resumo 
+📌 Reflexão sobre a Entrevista
+
+A entrevista simulada trouxe pontos que, em um cenário real, são muito comuns. O entrevistador busca verificar se o candidato realmente domina as habilidades que afirma em seu currículo, explorando exemplos práticos e a forma como organiza seu trabalho.  
+
+Para o candidato, esse processo é também uma oportunidade de perceber quais competências já estão bem desenvolvidas e quais precisam de continuidade ou aprofundamento. Muitas vezes, ao sair da entrevista, o entrevistado leva consigo não apenas a expectativa de ser aceito ou não pela empresa, mas também um plano de evolução pessoal, dando prosseguimento às habilidades que demonstrou.  
+
+Em resumo, a entrevista funciona como um espelho profissional:  
+- Para o entrevistador, é uma forma de validar competências.  
+- Para o entrevistado, é um momento de autoconhecimento e direcionamento de carreira.  
+`
+Gostei da forma como ela aborda cada parte do assunto, como se fosse abrindo gavetas. Assim, fica fácil encontrar o lugar certo para cada tema diferente."
+
+Não gostei que não deu pra entender muito Piton, acho que seria útil um curso.
+
+---
+
+Estudo de Python (Piton)
+
+Este repositório documenta minha jornada de aprendizado em Python, iniciada em 2026, com o objetivo de aplicar a linguagem no trabalho ainda neste ano.
+
+Conversa inicial
+
+- Eu manifestei interesse em estudar Python, chamando de “Piton”.
+- Expliquei que pretendo usar Python para trabalho ainda em 2026.
+- Foi sugerido começar pelos conceitos básicos: variáveis, estruturas de decisão (if/else) e laços de repetição (for/while).
+- Primeiro exemplo apresentado:
+  `python
+  idade = 25
+  `
+  Aqui, a variável idade guarda o número 25.
+- Em seguida, surgiu a ideia de guardar o nome de uma pessoa, mostrando que variáveis podem armazenar não apenas números, mas também textos (strings).
+
+Objetivo
+
+- Aprender Python de forma prática e aplicada.
+- Construir exemplos simples e evoluir para projetos que possam ser usados no ambiente profissional.
+
+---
