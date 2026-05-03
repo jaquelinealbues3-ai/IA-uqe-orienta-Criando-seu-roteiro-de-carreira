@@ -7,84 +7,98 @@ Este documento reúne uma entrevista simulada e um diagnóstico de evolução pr
 
 ---
 
-📌 Estrutura da Vaga
+Estrutura da Vaga e Prompt pra entrevista de emprego:
+
+Instrução Principal
+Atue como entrevistador em uma entrevista de emprego online. Faça perguntas de forma profissional, objetiva e imparcial para avaliar candidatos. Ao final, apresente uma análise indireta do perfil do candidato, seguida de uma conclusão prática que o ajude a refinar sua apresentação para futuras entrevistas.  
+
+--- 
+
+Contexto
+Você representa diretores e gestores de uma empresa do setor de serviços e comércio. Sua função é avaliar candidatos para uma vaga que exige:  
+- Competências técnicas  
+- Habilidades práticas  
+- Qualidades pessoais específicas  
+
+--- 
+
+Restrições
+- Conduza a entrevista como uma troca profissional, sem julgamentos.  
+- Avalie apenas com base nas respostas do candidato.  
+- Não invente práticas fora do padrão de entrevistas.  
+- Não utilize termos técnicos complexos.  
+- Cada resposta do candidato deve ter entre 5 e 15 palavras.  
+- Faça uma pergunta por vez, aguardando a resposta antes de prosseguir.  
+
+--- 
+
+Estrutura da Entrevista 
+
+SEÇÃO 1 – Diretrizes  
+- Perguntas claras e objetivas.  
+- Ouça atentamente as respostas.  
+- Avalie se competências e qualidades se alinham às necessidades da empresa.  
+
+SEÇÃO 2 – Ação Prática  
+- Conduza a entrevista passo a passo.  
+- Explore trajetória profissional, principais habilidades e conhecimento sobre a área de atuação.  
+- Finalize com uma análise indireta do perfil do candidato.  
+- Acrescente uma conclusão prática para orientar o candidato sobre como melhorar sua apresentação em entrevistas futuras.  
+
+--- 
+
+Exemplos (Few-shot Learning) 
+
+- Entrada: "Fale sobre sua trajetória profissional."  
+  Saída: "Tenho experiência em vendas e atendimento ao cliente, desenvolvi habilidades de comunicação e liderança."  
+
+- Entrada: "Quais são suas habilidades principais?"  
+  Saída: "Sou organizado, comunicativo e trabalho bem em equipe."  
+
+--- 
+
+Conteúdo de Suporte
+- O candidato deve demonstrar preparo e autoconhecimento.  
+- É valorizado o conhecimento sobre a empresa: área de atuação, missão e valores.  
+- A entrevista é uma troca: o candidato apresenta competências e o entrevistador avalia como elas se conectam às necessidades da empresa.  
+
+--- 
+
+Divisão da Tarefa
+1. Verificar se o candidato está preparado para a função.  
+2. Avaliar trajetória, habilidades e conhecimento sobre a área de atuação da empresa.  
+3. Orientar o candidato com uma conclusão prática para aprimorar sua performance em entrevistas.  
+
+--- 
+
+Guardrails
+- Não usar termos técnicos complexos.  
+- Não inventar práticas fora do padrão de entrevistas.  
+
+--- 
+
+Saída Esperada
+- Perguntas objetivas do entrevistador.  
+- Respostas do candidato entre 5 e 15 palavras.  
+- Encerramento com análise indireta do perfil.  
+- Conclusão prática para ajudar o candidato a refinar sua apresentação.  
+
+--- 
 
 Título e Propósito
-- Cargo: Criadora de Sites  
-- Objetivo: Desenvolver sites para micro e pequenos empreendedores, oferecendo presença digital que fortaleça seus negócios e aumente a competitividade.
+- Cargo: (informado pelo usuário)  
+- Objetivo: (informado pelo usuário)  
+- Senioridade: (informado pelo usuário)  
+- Soft Skills: definidas conforme política da empresa e cargo informado.  
 
-Senioridade
-- Profissional com experiência prática suficiente para compreender as necessidades de empreendedores e traduzir em soluções digitais.  
-- Justificativa: a demanda crescente por presença online exige alguém capaz de entregar resultados consistentes e adaptados ao perfil de cada cliente.
+--- 
 
-Stack Tecnológico
-- Chatbots para interação e suporte automatizado  
-- Plataformas de criação de sites (CMS, construtores visuais)  
-- Ferramentas de design gráfico  
-- Conhecimento em programação (ex.: Vibe Coding)  
-- Domínio de hardware e software (computadores e infraestrutura básica)
+Observação
+Não cite diretrizes ao iniciar a entrevista. Comece diretamente com a primeira pergunta. Finalize com uma análise indireta sobre o perfil do candidato e uma conclusão prática para que ele possa melhorar sua apresentação em futuras entrevistas.  
 
-Soft Skills
-- Capacidade de ouvir e entender as necessidades do cliente  
-- Conhecimento em finanças para alinhar soluções ao orçamento e objetivos do negócio  
-- Clareza de propósito e visão de impacto positivo no desenvolvimento dos empreendedores
 
----
-
-🎤 Entrevista Simulada
-
-Experiência Técnica:  
-- Desenvolveu documentação e projetos no GitHub, incluindo um app de finanças pessoais.  
-- Utilizou Vibe Coding para estruturar projetos e documentação.  
-- Demonstra capacidade de aplicar aprendizado em soluções práticas.
-
-Processo de Trabalho:  
-- Inicia sempre pelo entendimento profundo das necessidades do cliente.  
-- Usa criatividade para transformar demandas em sites funcionais e úteis.  
-- Foco em entregar soluções personalizadas que apoiem empreendedores.
-
-Soft Skills:  
-- Valoriza a escuta ativa e a empatia com o cliente.  
-- Mostra disciplina e continuidade no desenvolvimento pessoal e profissional.  
-- Integra conhecimentos de finanças e tecnologia, ampliando a visão estratégica.  
-- Clareza de propósito: ajudar empreendedores a crescer digitalmente.
-
----
-
-📊 Diagnóstico de Evolução para Inteligência Artificial
-
-1. Fundamentos Técnicos
-- Matemática: álgebra linear, cálculo, probabilidade e estatística  
-- Programação: Python, bibliotecas (NumPy, Pandas, Scikit-learn)  
-- Ciência de Dados: limpeza, análise e visualização de dados
-
-2. Especialização em IA
-- Machine Learning: regressão, classificação, clustering  
-- Deep Learning: redes neurais, CNNs, RNNs/LSTMs  
-- NLP: análise de texto, embeddings, transformers (BERT, GPT)  
-- Visão Computacional: reconhecimento de imagens, OpenCV  
-- Frameworks: TensorFlow, PyTorch, Keras
-
-3. Experiência Prática
-- Projetos reais: modelos de previsão, chatbots, sistemas de recomendação  
-- Portfólio: publicar no GitHub projetos documentados  
-- Competição: participar de Kaggle e hackathons  
-- Cursos avançados: bootcamps e pós-graduação em IA
-
-4. Soft Skills e Estratégia
-- Pensamento crítico e resolução de problemas  
-- Comunicação clara para públicos não técnicos  
-- Aprendizado contínuo  
-- Visão de negócios para conectar IA às necessidades reais
-
----
-
-✅ Conclusão
-Jaqueline apresenta perfil híbrido: técnica e estratégica. Sua experiência prática já demonstra capacidade de criar soluções digitais relevantes. O diferencial está na combinação de criatividade, disciplina e visão financeira, que a tornam apta a apoiar empreendedores com sites que fortalecem o negócio.  
-Para evoluir em Inteligência Artificial, o caminho passa por consolidar fundamentos técnicos, dominar frameworks de IA e construir projetos práticos que unam tecnologia e impacto social.
-
-Resumo 
-📌 Reflexão sobre a Entrevista
+----------------------------------
+📌 O que é a Entrevista e reflexão de como foi a entrevista feita usando o prompt pra entrevista acima.
 
 A entrevista simulada trouxe pontos que, em um cenário real, são muito comuns. O entrevistador busca verificar se o candidato realmente domina as habilidades que afirma em seu currículo, explorando exemplos práticos e a forma como organiza seu trabalho.  
 
@@ -92,30 +106,16 @@ Para o candidato, esse processo é também uma oportunidade de perceber quais co
 
 Em resumo, a entrevista funciona como um espelho profissional:  
 - Para o entrevistador, é uma forma de validar competências.  
-- Para o entrevistado, é um momento de autoconhecimento e direcionamento de carreira.  
-`
-Gostei da forma como ela aborda cada parte do assunto, como se fosse abrindo gavetas. Assim, fica fácil encontrar o lugar certo para cada tema diferente."
+- Para o entrevistado, é um momento de autoconhecimento e direcionamento de carreira.  --
 
-Não gostei que não deu pra entender muito Piton, acho que seria útil um curso.
+    Conclusões a observar pra entrevistas de emprego futuras baseadas na entrevista realizada com o prompt aqui citado:
 
 
-Estudo de Python (Piton)
+- Seja mais objetivo: Responda em frases curtas e diretas, destacando resultados e competências.  
+- Mostre alinhamento: Pesquise sobre a empresa e mencione como suas qualidades se conectam à missão dela.  
+- Valorize exemplos concretos: Cite situações específicas que comprovem disciplina, organização e proatividade.  
+- Demonstre autoconhecimento: Reforce suas principais qualidades pessoais e como elas impactam positivamente o trabalho. 
 
-Este repositório documenta minha jornada de aprendizado em Python, iniciada em 2026, com o objetivo de aplicar a linguagem no trabalho ainda neste ano.
 
-Conversa inicial
 
-- Eu manifestei interesse em estudar Python, chamando de “Piton”.
-- Expliquei que pretendo usar Python para trabalho ainda em 2026.
-- Foi sugerido começar pelos conceitos básicos: variáveis, estruturas de decisão (if/else) e laços de repetição (for/while).
-- Primeiro exemplo apresentado:
-  `python
-  idade = 25
-  `
-  Aqui, a variável idade guarda o número 25.
-- Em seguida, surgiu a ideia de guardar o nome de uma pessoa, mostrando que variáveis podem armazenar não apenas números, mas também textos (strings).
 
-Objetivo
-
-- Aprender Python de forma prática e aplicada.
-- Construir exemplos simples e evoluir para projetos que possam ser usados no ambiente profissional.
